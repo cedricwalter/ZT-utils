@@ -26,6 +26,8 @@ python3 meetup_to_luma_chrome.py
 A menu is displayed just follow the instructions.
 
 # Meetup to Hugo blog
+This script fetches events from a Meetup RSS feed and converts them into Markdown files for Hugo, including image extraction and YAML front matter formatting.
+
 ```
 python3 rss-to-hugo.py
 ```
