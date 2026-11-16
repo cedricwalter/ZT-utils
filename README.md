@@ -2,7 +2,7 @@
 
 # Meetup to Lu.ma with robotic webdriver
 
-Get from meetup RSS feed all information, present a menu and let you easily copy events from meetup to Luma
+This script fetches events from the Zurich Together Meetup RSS feed and automates the creation of events on Lu.ma using Selenium. It includes functions for scraping event details, handling date and time inputs, and uploading cover images.
 
 ## Prerequisites
 - MacOS
